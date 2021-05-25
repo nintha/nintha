@@ -17,6 +17,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=nintha&show_icons=true&hide_border=true"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nintha&hide_border=true&layout=compact&langs_count=6&exclude_repo=nintha.github.io"/>
       <img src="https://github-profile-trophy.vercel.app/?username=nintha"/>
-      <img src="https://github.com/taseikyo/taseikyo/blob/master/images/eveonecat-train.gif"/>
+      <img src="https://github.com/nintha/nintha/blob/main/cat_and_fire.gif"/>
     </a>
 </div>
