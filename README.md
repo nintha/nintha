@@ -4,6 +4,9 @@
   </a>
   <br>
   <p>
+    <a href="https://github.com/nintha">
+  	  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+  	</a>
   	<a href="https://github.com/nintha">
   	  <img src="https://img.shields.io/github/followers/nintha.svg?lable=GitHub&style=social">
   	</a>
